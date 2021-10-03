@@ -13,6 +13,12 @@
 
 - 📫 How to reach me **hatakekaran@gmail.com**
 
+
+
+  ![giphy](https://user-images.githubusercontent.com/79099917/135752467-803ed063-9e33-4d32-9f31-13862776a8f8.gif)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karan-dobriyal-4ab35921b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-dobriyal-4ab35921b/" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,4 +39,5 @@
 [![Karan Dobriyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=karandobriyal26)](https://github.com/karandobriyal26/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karandobriyal26)](https://github.com/anuraghazra/github-readme-stats)
+
 
