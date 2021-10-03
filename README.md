@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karandobriyal62&label=Profile%20views&color=0e75b6&style=flat" alt="karandobriyal62" /> </p>
 
-
-
 - 🔭 I’m currently working on **SagarInfomatics Pvt Ltd.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms..**
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karan dobriyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan dobriyal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karan-dobriyal-4ab35921b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-dobriyal-4ab35921b/" height="30" width="40" /></a>
 <a href="https://kaggle.com/liquidkaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="liquidkaran" height="30" width="40" /></a>
 <a href="https://instagram.com/karan_dobriyal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_dobriyal_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hatakekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hatakekaran" height="30" width="40" /></a>
