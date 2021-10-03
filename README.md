@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karandobriyal62&label=Profile%20views&color=0e75b6&style=flat" alt="karandobriyal62" /> </p>
 
-- 🔭 I’m currently working in **SagarInfomatics Pvt Ltd.**
+- 🔭 I’m currently working on **C#, SQL Server, JQuery, Asp.Net MVC, Javascript, HTML 5 and CSS 3**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms..**
 
 - 👨‍💻 All of my projects are available at [https://karandobriyal26.github.io/Portfolio/](https://karandobriyal26.github.io/Portfolio/)
 
-- 💬 Ask me about **DSA, Python, C#, JS, JQuery, SQL Server, Asp.net MVC**
+- 💬 Ask me about **DSA, Python, C#, JS, JQuery, SQL Server, Asp.Net MVC**
 
 - 📫 How to reach me **hatakekaran@gmail.com**
 
