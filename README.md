@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karandobriyal62&label=Profile%20views&color=0e75b6&style=flat" alt="karandobriyal62" /> </p>
 
-- 🔭 I’m currently working on **Sagar Informatics Pvt Ltd**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karandobriyal62" alt="karandobriyal62" /></a> </p>
+
+- 🔭 I’m currently working on **SagarInfomatics Pvt Ltd.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms..**
 
