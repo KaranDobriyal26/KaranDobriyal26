@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karandobriyal62&label=Profile%20views&color=0e75b6&style=flat" alt="karandobriyal62" /> </p>
 
-- 🔭 I’m currently working on **SagarInfomatics Pvt Ltd.**
+- 🔭 I’m currently working on **Sagar Informatics Pvt Ltd**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms..**
 
