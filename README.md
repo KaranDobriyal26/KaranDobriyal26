@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://karandobriyal26.github.io/Portfolio/](https://karandobriyal26.github.io/Portfolio/)
 
-- 💬 Ask me about **DSA, Python, C#, JS, JQuery, SQL Server**
+- 💬 Ask me about **DSA, Python, C#, JS, JQuery, SQL Server, Asp.net MVC**
 
 - 📫 How to reach me **hatakekaran@gmail.com**
 
