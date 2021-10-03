@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karandobriyal62&label=Profile%20views&color=0e75b6&style=flat" alt="karandobriyal62" /> </p>
 
-- 🔭 I’m currently working on **C#, SQL Server, JQuery, Asp.Net MVC, Javascript, HTML 5 and CSS 3**
+- 🔭 I’m currently working on **C#, SQL Server, JQuery, Asp.Net MVC, Javascript**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms..**
 
