@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **C#, SQL Server, JQuery, Asp.Net MVC, Javascript**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms..**
+- 🌱 I’m currently learning **Data Science..**
 
 - 👨‍💻 All of my projects are available at [https://karandobriyal26.github.io/Portfolio/](https://karandobriyal26.github.io/Portfolio/)
 
