@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karan-dobriyal-4ab35921b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-dobriyal-4ab35921b/" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/karandobriyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-dobriyal-4ab35921b/" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://kaggle.com/liquidkaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="liquidkaran" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/karan_dobriyal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_dobriyal_" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/hatakekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hatakekaran" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
