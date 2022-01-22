@@ -26,8 +26,7 @@
 <a href="https://kaggle.com/liquidkaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="liquidkaran" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/karan_dobriyal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_dobriyal_" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/hatakekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hatakekaran" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/hatakekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hatakekaran" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/hatake karan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hatake karan" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.leetcode.com/hatakekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hatakekaran" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp; 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
