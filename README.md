@@ -1,4 +1,4 @@
-
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://karandobriyal26.io)
 <h1 align="center">Hi 👋🏻, I'm Karan Dobriyal</h1>
 <h3 align="center">An Enthusiastic Learner</h3>
 
@@ -37,7 +37,7 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=karandobriyal26&&theme=xcode)](https://github.com/karandobriyal26)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karandobriyal26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p> <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karandobriyal26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karandobriyal26&show_icons=true&locale=en&theme=tokyonight" alt="karandobriyal26" /></p>
 
