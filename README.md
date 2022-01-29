@@ -37,7 +37,7 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=karandobriyal26&&theme=xcode)](https://github.com/karandobriyal26)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karandobriyal26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karandobriyal26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p> <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karandobriyal26&show_icons=true&locale=en&theme=tokyonight" alt="karandobriyal26" /></p>
 
