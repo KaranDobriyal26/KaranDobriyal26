@@ -27,8 +27,6 @@
 <a href="https://instagram.com/karan_dobriyal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_dobriyal_" height="30" width="40" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCQU5hCM8v85gFr2cODbhYlg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karan dobriyal" height="30" width="40" /></a>&nbsp;
 <a href="https://www.hackerrank.com/hatakekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hatakekaran" height="30" width="40" /></a>&nbsp;
-<a href="https://www.leetcode.com/hatakekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hatakekaran" height="30" width="40" /></a>&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/hatakekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hatakekaran" height="30" width="40" /></a>&nbsp;
 <a href="https://discord.gg/ceJAtKYS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/AAP5ZPww" height="30" width="40" /></a>&nbsp;
 </p>
 
