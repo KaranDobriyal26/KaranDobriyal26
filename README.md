@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://karandobriyal26.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQFcFFB0p-oKaQ/profile-displaybackgroundimage-shrink_350_1400/0/1644944148008?e=1650499200&v=beta&t=7qD-B71ajtxQnSTT_TBSucSpSfzc3VSUVrfIejP8-lo)](https://karandobriyal26.io)
 <h1 align="center">Hi 👋🏻, I'm Karan Dobriyal</h1>
 <h3 align="center">An Enthusiastic Learner</h3>
 
