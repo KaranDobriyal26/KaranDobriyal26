@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karandobriyal26&label=Profile%20views&color=0e75b6&style=flat" alt="karandobriyal26" /> </p>
 
 <p align="left"> <a href="https://twitter.com/karan_dobriyal" target="blank"><img src="https://img.shields.io/twitter/follow/karan_dobriyal?logo=twitter&style=for-the-badge" alt="karan_dobriyal" /></a> </p>
-
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 - 🔭 I’m currently working on **ASP.Net MVC**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
