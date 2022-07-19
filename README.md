@@ -9,7 +9,7 @@
   
 - 🔭 I’m currently working on **ASP.Net MVC**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **DS & Algo**
 
 - 👨‍💻 All of my projects are available at [https://karandobriyal26.github.io/Portfolio/](https://karandobriyal26.github.io/Portfolio/)
 
