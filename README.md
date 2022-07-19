@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://karandobriyal26.github.io/Portfolio/](https://karandobriyal26.github.io/Portfolio/)
 
-- 💬 Ask me about **C#,JavaScript,JQuery,SQL Server**
+- 💬 Ask me about **C++,C#,JavaScript,SQL Server**
 
 - 📫 How to reach me **hatakekaran@gmail.com**
 
